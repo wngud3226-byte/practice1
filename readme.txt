@@ -2,3 +2,4 @@
 git에 대해 완벽히 이해했다
 branch에 대해 이해해 보자!
 clone에 대해 이해해 보자!
+understand 90 percent!
